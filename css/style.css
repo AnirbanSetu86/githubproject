@@ -1,0 +1,45 @@
+{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+}
+
+.container{
+	padding:40px;
+}
+
+img{
+	max-width: 100%;
+}
+
+.navbar-brand{
+	max-width: 40px;
+}
+
+section{
+	background-color:#2B3137;
+	padding: 15px;
+}
+
+.row{
+height: 500px;
+margin:10px;
+}
+
+
+h1{
+	font-size: 50px;
+	font-weight:700;
+}
+p{
+	font-size: 20px;
+	text-align: justify;
+}
+
+span{
+	color: #fff;
+}
